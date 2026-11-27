@@ -59,10 +59,8 @@ the board and any warnings.
 Show the person the summary and the preview link, and wait for a clear yes in this conversation.
 Then `confirm_order`, or `POST https://pcb.dog/api/orders/{order_id}/confirm`.
 
-Relay the reply as it is:
-
-- An accepted order carries a payment link. Give it to the person: they pay, not you.
-- If pcb.dog cannot take the order, the reply says why and carries a first-order coupon. Pass both on.
+Relay the reply to the person as it is. An accepted order carries a payment link: give it to the person; they pay,
+not you.
 
 Confirming the same `order_id` again returns the same answer and never places a second order.
 
