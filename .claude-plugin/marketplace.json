@@ -1,0 +1,12 @@
+{
+  "name": "pcb-dog",
+  "description": "PCB quoting and ordering for agents, from pcb.dog",
+  "owner": { "name": "pcb.dog", "email": "hello@pcb.dog" },
+  "plugins": [
+    {
+      "name": "pcb-dog",
+      "source": "./",
+      "description": "Quote and order PCBs: Gerber pre-check, USD prices with door-to-door dates, ordering through pcb.dog's MCP server."
+    }
+  ]
+}

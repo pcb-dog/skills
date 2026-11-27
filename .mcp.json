@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "pcb-dog": { "type": "http", "url": "https://pcb.dog/mcp" }
+  }
+}
