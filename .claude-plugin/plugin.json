@@ -1,7 +1,7 @@
 {
   "name": "pcb-dog",
   "displayName": "pcb.dog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quote and order PCBs from your agent: Gerber pre-check, USD prices with door-to-door dates, and ordering through pcb.dog's keyless MCP server.",
   "author": { "name": "pcb.dog", "email": "hello@pcb.dog", "url": "https://pcb.dog" },
   "homepage": "https://pcb.dog/en/agents",

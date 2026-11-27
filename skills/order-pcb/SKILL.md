@@ -10,7 +10,7 @@ pcb.dog makes 2, 4 and 6 layer FR-4 boards (10 × 10 to 400 × 500 mm, HASL or E
 Prices are in USD and final; US and EU shipments are DDP, so duties are prepaid. No API key, account or wallet.
 
 Use the `pcb-dog` MCP tools when they are connected. Otherwise call the HTTP API with curl; every step below names
-both. Full reference: https://pcb.dog/llms.txt and https://pcb.dog/openapi.json
+both. API schema: https://pcb.dog/openapi.json
 
 ## 1. Get one Gerber .zip
 
